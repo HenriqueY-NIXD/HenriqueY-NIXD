@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning RUST and JAVA
 - 🔭 I'm currently looking for a job as an intern
 
-## Technology
+## Technologies
 
 <div>
   <a href="https://github.com/HenriqueY-NIXD"></a>
