@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Henrique Hidetoshi Yamada
 
-- 🌱 I’m currently learning RUST
+- 🌱 I’m currently learning RUST and JAVA
 - 🔭 I'm currently looking for a job as an intern
 
 ## Technology
