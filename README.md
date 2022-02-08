@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning RUST and JAVA
 - 🔭 I'm currently looking for a job as an intern
 
-<div>
-  <img align="right" alt="Crazy Pilog GIF" src="https://pipe.miroware.io/60a47afdab37f801c2e52bb1/profile/Pilot.gif">
+<div align="center">
+  <img alt="Crazy Pilog GIF" src="https://pipe.miroware.io/60a47afdab37f801c2e52bb1/profile/Pilot.gif">
 </div>
 
 ## Technologies
