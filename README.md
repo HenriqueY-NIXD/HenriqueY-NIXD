@@ -1,11 +1,13 @@
 ### Hi there 👋 My name is Henrique Hidetoshi Yamada
 
-- 🌱 I’m currently learning RUST and JAVA
-- 🔭 I'm currently looking for a job as an intern
-
 <div align="center">
   <img alt="Crazy Pilog GIF" src="https://pipe.miroware.io/60a47afdab37f801c2e52bb1/profile/Pilot.gif">
 </div>
+
+- 🌱 I’m currently learning RUST and JAVA
+- 🔭 I'm currently looking for a job as an intern
+
+
 
 ## Technologies
 
