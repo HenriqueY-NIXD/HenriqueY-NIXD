@@ -8,7 +8,7 @@
 </div><br>
 
 - 🌱 I’m currently learning **RUST**
-- 👀 I'm interested in learning **JAVA**, **DOCKERS**, **KOTLIN**, **C** and **LUA**
+- 👀 I'm interested in learning **JAVA**, **DOCKERS**, **KOTLIN**, **C**, **PYTHON** and **LUA**
 - 🔭 I'm currently looking for a job as an *intern*
 
 <div align="center">
