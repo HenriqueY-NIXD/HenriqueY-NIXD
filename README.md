@@ -7,7 +7,8 @@
   <img alt="Crazy Pilog GIF" src="https://pipe.miroware.io/60a47afdab37f801c2e52bb1/profile/Pilot.gif">
 </div><br>
 
-- 🌱 I’m currently learning **RUST** and **JAVA**
+- 🌱 I’m currently learning **RUST**
+- 👀 I'm interested in learning **JAVA**
 - 🔭 I'm currently looking for a job as an *intern*
 
 <div align="center">
