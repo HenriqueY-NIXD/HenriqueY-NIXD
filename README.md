@@ -7,7 +7,7 @@
   <img alt="Crazy Pilog GIF" src="https://pipe.miroware.io/60a47afdab37f801c2e52bb1/profile/Pilot.gif">
 </div><br>
 
-- 🌱 I’m currently learning **TYPESCRIPT**, **RUST** and **PYTHON**
+- 🌱 I’m currently learning **TYPESCRIPT**, **JEST**, **RUST** and **PYTHON**
 - 👀 I'm interested in learning **JAVA**, **DOCKERS**, **KOTLIN**, **C** and **LUA**
 - 🔭 I'm currently looking for a job as an *intern*
 
