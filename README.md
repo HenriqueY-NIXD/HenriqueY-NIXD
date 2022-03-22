@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning **TYPESCRIPT**, **JEST**, **RUST** and **PYTHON**
 - 👀 I'm interested in learning **JAVA**, **DOCKERS**, **KOTLIN**, **C** and **LUA**
-- 🔭 I'm currently looking for a job as an *intern*
 
 <div align="center">
   <h1>Technologies</h1>
