@@ -1,5 +1,5 @@
 
-<div align="center">
+<div>
   <h1>Hi there 👋 My name is Henrique Hidetoshi Yamada</h1>
 </div>
 
@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **TYPESCRIPT**, **JEST** and **GO**
 - 👀 I'm interested in learning **DOCKERS**, **KOTLIN** and **PYTHON**
 
-<div align="center">
+<div>
   <h1>Technologies</h1>
 </div>
 
@@ -28,7 +28,7 @@
   </div>
 </div>
 
-<div align="center">
+<div>
   <h1>Socials</h1>
 </div>
 
