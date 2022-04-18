@@ -8,7 +8,7 @@
 </div><br>
 
 - 🌱 I’m currently learning **TYPESCRIPT**, **JEST** and **GO**
-- 👀 I'm interested in learning **JAVA**, **DOCKERS**, **KOTLIN**, **PYTHON**, **C** and **LUA**
+- 👀 I'm interested in learning **DOCKERS**, **KOTLIN** and **PYTHON**
 
 <div align="center">
   <h1>Technologies</h1>
