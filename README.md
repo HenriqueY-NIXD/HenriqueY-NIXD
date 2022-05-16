@@ -7,7 +7,7 @@
   <img alt="Crazy Pilog GIF" src="https://pipe.miroware.io/60a47afdab37f801c2e52bb1/profile/Pilot.gif">
 </div><br>
 
-- 🌱 I’m currently learning **TYPESCRIPT**, **JEST** and **GO**
+- 🌱 I’m currently learning **TYPESCRIPT**, **SVELTE**, **JEST** and **GO**
 - 👀 I'm interested in learning **DOCKERS**, **KOTLIN** and **PYTHON**
 
 <div>
