@@ -3,7 +3,7 @@
   <h1>Hi there 👋 My name is Henrique Hidetoshi Yamada</h1>
 </div>
 
-<div align="center">
+<div align="center" width=500>
   <img alt="Crazy Pilog GIF" src="https://pipe.miroware.io/60a47afdab37f801c2e52bb1/profile/Pilot.gif">
 </div><br>
 
