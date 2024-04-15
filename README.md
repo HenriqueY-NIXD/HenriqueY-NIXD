@@ -1,5 +1,5 @@
 <div>
-  <h1>Hi there 👋 My name is Henrique Hidetoshi Yamada</h1>
+  <h1>Hi there 👋 My name is Henrique Yamada</h1>
 </div>
 
 <div align="right" width=500>
