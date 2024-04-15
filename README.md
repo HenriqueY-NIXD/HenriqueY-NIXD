@@ -7,46 +7,122 @@
   <img alt="Crazy Pilog GIF" src="https://pipe.miroware.io/60a47afdab37f801c2e52bb1/profile/Pilot.gif">
 </div><br>
 
-- 🌱 I’m currently learning **TYPESCRIPT**, **C**, **KOTLIN**, **RUST** and **PYTHON**
-- 👀 I'm interested in learning **DOCKERS**, **GO** and **SVELTE**
+- 🌱 I’m currently learning some **Data** and **File** Structures
+- 👀 I'm interested in learning **DOCKERS**, **Lisp**, **Haskel**, **Lua*** (for linux configs), **C**, **GO** and **KOTLIN**
 
 <div>
   <h1>Technologies</h1>
 </div>
 
-<div align="center">
-  <a href="https://github.com/HenriqueY-NIXD">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueY-NIXD&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true">
-  </a>
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueY-NIXD&layout=compact&langs_count=16">-->
-  <div style="display:inline_block"><br>
-    <img align="center" alt="C#" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-    <img align="center" alt="HTML5" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img align="center" alt="CSS3" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img align="center" alt="Javascript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img align="center" alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  </div>
+<div align="center">  
+  ### Front-end
+
+  <p align="center">
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+      <img src="https://skillicons.dev/icons?i=html" />
+    </a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+      <img src="https://skillicons.dev/icons?i=css" />
+    </a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+      <img src="https://skillicons.dev/icons?i=js" />
+    </a>
+    <a href="https://www.typescriptlang.org/">
+      <img src="https://skillicons.dev/icons?i=ts" />
+    </a>
+    <a href="https://svelte.dev/">
+      <img src="https://skillicons.dev/icons?i=svelte" />
+    </a>
+  </p>
+
+  ### Backend
+  <p align="center">
+    <a href="https://dotnet.microsoft.com/pt-br/languages/csharp">
+      <img src="https://skillicons.dev/icons?i=cs" />
+    </a>
+    <a href="https://nodejs.org/en">
+      <img src="https://skillicons.dev/icons?i=nodejs" />
+    </a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+      <img src="https://skillicons.dev/icons?i=js" />
+    </a>
+    <a href="https://www.typescriptlang.org/">
+      <img src="https://skillicons.dev/icons?i=ts" />
+    </a>
+    <a href="https://www.python.org/">
+      <img src="https://skillicons.dev/icons?i=py" />
+    </a>
+    <a href="https://www.rust-lang.org/pt-BR">
+      <img src="https://skillicons.dev/icons?i=rust" />
+    </a>
+  </p>
+
+  ### Databases
+  <p align="center">
+    <a href="https://www.postgresql.org/">
+      <img src="https://skillicons.dev/icons?i=postgres" />
+    </a>
+    <a href="https://www.mysql.com/">
+      <img src="https://skillicons.dev/icons?i=mysql" />
+    </a>
+    <a href="https://www.sqlite.org/">
+      <img src="https://skillicons.dev/icons?i=sqlite" />
+    </a>
+  </p>
+
+  ### Code Editors
+  <p align="center">
+    <a href="https://code.visualstudio.com/">
+      <img src="https://skillicons.dev/icons?i=vscode" />
+    </a>
+    <a href="https://www.vim.org/">
+      <img src="https://skillicons.dev/icons?i=vim" />
+    </a>
+    <a href="https://neovim.io/">
+      <img src="https://skillicons.dev/icons?i=neovim" />
+    </a>
+  </p>
+
+  ### OS
+  <p align="center">
+    <a href="https://www.microsoft.com/pt-br/windows/">
+      <img src="https://skillicons.dev/icons?i=windows" />
+    </a>
+    <a href="https://www.linux.org/">
+      <img src="https://skillicons.dev/icons?i=linux" />
+    </a>
+    <a href="https://archlinux.org/">
+      <img src="https://skillicons.dev/icons?i=arch" />
+    </a>
+    <a href="https://www.kali.org/">
+      <img src="https://skillicons.dev/icons?i=kali" />
+    </a>
+  </p>
+
+  ### General
+  <p align="center">
+    <a href="https://git-scm.com/">
+      <img src="https://skillicons.dev/icons?i=git" />
+    </a>
+    <a href="https://github.com/">
+      <img src="https://skillicons.dev/icons?i=github" />
+    </a>
+    <a href="https://bitbucket.org/">
+      <img src="https://skillicons.dev/icons?i=bitbucket" />
+    </a>
+    <a href="https://pnpm.io/pt/">
+      <img src="https://skillicons.dev/icons?i=pnpm" />
+    </a>
+    <a href="https://www.jenkins.io/">
+      <img src="https://skillicons.dev/icons?i=jenkins" />
+    </a>
+  </p>
 </div>
 
 <div>
-  <h1>Socials</h1>
+  <h1>Social</h1>
 </div>
 
 <div>
-  <a href="https://www.linkedin.com/in/henrique-yamada-6743ba215/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="external"></a> 
+  <a href="https://www.linkedin.com/in/henrique-hidetoshi-yamada/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="external"></a> 
 </div>
-
-<!--
-**HenriqueY-NIXD/HenriqueY-NIXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
