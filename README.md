@@ -67,7 +67,7 @@
     <img src="https://skillicons.dev/icons?i=sqlite" />
   </a>
   <a href="https://www.microsoft.com/pt-br/sql-server">
-    <img src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" />
+    <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" />
   </a>
 
   ### Code Editors
