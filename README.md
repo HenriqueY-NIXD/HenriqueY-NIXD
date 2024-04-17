@@ -37,6 +37,9 @@
   <a href="https://dotnet.microsoft.com/pt-br/languages/csharp">
     <img src="https://skillicons.dev/icons?i=cs" />
   </a>
+  <a href="https://dotnet.microsoft.com/pt-br/">
+    <img src="https://skillicons.dev/icons?i=dotnet" />
+  </a>
   <a href="https://nodejs.org/en">
     <img src="https://skillicons.dev/icons?i=nodejs" />
   </a>
@@ -62,6 +65,9 @@
   </a>
   <a href="https://www.sqlite.org/">
     <img src="https://skillicons.dev/icons?i=sqlite" />
+  </a>
+  <a href="https://www.microsoft.com/pt-br/sql-server">
+    <img src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" />
   </a>
 
   ### Code Editors
