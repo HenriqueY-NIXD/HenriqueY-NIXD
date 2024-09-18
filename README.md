@@ -6,8 +6,8 @@
   <img alt="Crazy Pilog GIF" src="https://pipe.miroware.io/60a47afdab37f801c2e52bb1/profile/Pilot.gif">
 </div><br>
 
-- 🌱 I’m currently learning some **Data** and **File** Structures
-- 👀 I'm interested in learning **DOCKERS**, **Lisp**, **Haskel**, **Lua** (for linux configs), **C**, **GO** and **KOTLIN**
+- 🌱 I’m currently learning some **C**, **Data** and **File** Structures
+- 👀 I'm interested in learning **DOCKERS**, **Lisp**, **Haskel**, **Lua** (for linux configs), **GO** and **KOTLIN**
 
 <div>
   <h1>Technologies</h1>
