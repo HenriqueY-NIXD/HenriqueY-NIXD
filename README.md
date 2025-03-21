@@ -7,7 +7,7 @@
 </div><br>
 
 - 🌱 I’m currently learning some **C**, **Data** and **File** Structures
-- 👀 I'm interested in learning **DOCKERS**, **Lisp**, **Haskel**, **Lua** (for linux configs), **GO** and **KOTLIN**
+- 👀 I'm interested in learning **DOCKERS**, **Lua** (for linux configs), **GO** and **KOTLIN**
 
 <div>
   <h1>Technologies</h1>
